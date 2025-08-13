@@ -1,4 +1,4 @@
-<h1 align="center">🌐 Network Infrastructure Design – Law Firm Branch in Bali</h1>
+<h1 align="center">🛜 Network Infrastructure Design – Law Firm Branch in Bali</h1>
 
 <p align="center">
 <a href="#overview">Project Overview</a>
